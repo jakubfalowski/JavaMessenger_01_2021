@@ -1,0 +1,4 @@
+serwer: localhost
+uzytkownik: postgres
+hasło: 123456
+port: 54321
